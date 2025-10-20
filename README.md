@@ -34,8 +34,7 @@ Aplikasi ini dirancang agar **dapat berjalan offline** atau dihosting di **GitHu
 ### ⭐ Bookmark Materi
 - Tandai materi penting untuk dibuka kembali dengan cepat  
 
-### 🌙 Tema Terang / Gelap
-- Tombol mode terang/gelap di pojok kanan atas  
+ 
 
 ---
 
